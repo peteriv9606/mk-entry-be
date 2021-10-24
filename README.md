@@ -1,6 +1,6 @@
 ﻿# mk-entry-be
  
-This is an Express.js project
+This is an Express.js Backend project (Part2). (Front-End)[https://github.com/peteriv9606/mkit-entry-fe]
 
 ## Getting Started
 
